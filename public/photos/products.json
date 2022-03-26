@@ -1,74 +1,74 @@
 [
     {
-      "_id": "623f0596d804379d9b4f514a",
+      "id": "623f0596d804379d9b4f514a",
       "index": 0,
-      "guid": "2d1540f0-bc9d-4da4-b2a5-07829f991a87",
-      "isActive": true,
-      "balance": "$1,916.03",
-      "picture": "photos/pic1.png"
+      "name": "Racer Pigeon",
+      "breed": "breed 2",
+      "price": "$1,916.03",
+      "img": "photos/pic1.png"
     },
     {
-      "_id": "623f05964571ebff252526a9",
+      "id": "623f05964571ebff252526a9",
       "index": 1,
-      "guid": "34f4e8dd-5de1-45fb-9753-358c2b62ff5a",
-      "isActive": true,
-      "balance": "$3,001.98",
-      "picture": "photos/pic2.png"
+      "name": "Lokha Pigeon",
+      "breed": "breed 2",
+      "price": "$3,001.98",
+      "img": "photos/pic2.png"
     },
     {
-      "_id": "623f059698d53506aa490b04",
+      "id": "623f059698d53506aa490b04",
       "index": 2,
-      "guid": "63e17703-768a-4bef-90d5-e4222f1c6f68",
-      "isActive": true,
-      "balance": "$2,888.02",
-      "picture": "photos/pic3.jpg"
+      "name": "Lahori Pigeon",
+      "breed": "breed 2",
+      "price": "$2,888.02",
+      "img": "photos/pic3.jpg"
     },
     {
-      "_id": "623f0596bdc71683148f8cf1",
+      "id": "623f0596bdc71683148f8cf1",
       "index": 3,
-      "guid": "f46cb413-68e4-4966-b17d-db27563466ec",
-      "isActive": false,
-      "balance": "$1,497.88",
-      "picture": "photos/pic4.jpg"
+      "name": "Barma Pigeon",
+      "breed": "breed 1",
+      "price": "$1,497.88",
+      "img": "photos/pic4.jpg"
     },
     {
-      "_id": "623f059609ac0ea8b031cd87",
+      "id": "623f059609ac0ea8b031cd87",
       "index": 4,
-      "guid": "0dbcf7cb-b30b-4976-9de3-4672fa2772f6",
-      "isActive": false,
-      "balance": "$3,181.83",
-      "picture": "photos/pic5.png"
+      "name": "Sartin Pigeon",
+      "breed": "breed 1",
+      "price": "$3,181.83",
+      "img": "photos/pic5.png"
     },
     {
-      "_id": "623f059682ee8531fa0234ae",
+      "id": "623f059682ee8531fa0234ae",
       "index": 5,
-      "guid": "ba59f175-8d05-4d75-a6a7-c133e907a887",
-      "isActive": true,
-      "balance": "$2,959.90",
-      "picture": "photos/pic6.png"
+      "name": "Red Checker Pigeon",
+      "breed": "breed 2",
+      "price": "$2,959.90",
+      "img": "photos/pic6.png"
     },
     {
-      "_id": "623f05962d54b0c4c37c25f9",
+      "id": "623f05962d54b0c4c37c25f9",
       "index": 6,
-      "guid": "c35bac56-0635-4455-a838-a65f72419a29",
-      "isActive": true,
-      "balance": "$2,236.43",
-      "picture": "photos/pic7.png"
+      "name": "Giribaz",
+      "breed": "breed 2",
+      "price": "$2,236.43",
+      "img": "photos/pic7.png"
     },
     {
-      "_id": "623f0596086afd4fa4bd811a",
+      "id": "623f0596086afd4fa4bd811a",
       "index": 7,
-      "guid": "dad0001e-e4f2-4432-8026-1ca4839682db",
-      "isActive": true,
-      "balance": "$1,626.89",
-      "picture": "photos/pic8.png"
+      "name": "Kaldom",
+      "breed": "breed 2",
+      "price": "$1,626.89",
+      "img": "photos/pic8.png"
     },
     {
-      "_id": "623f0596c0dd677b63923061",
+      "id": "623f0596c0dd677b63923061",
       "index": 8,
-      "guid": "96bf5bf2-a8ac-440b-b95c-977017d72be1",
-      "isActive": true,
-      "balance": "$2,208.87",
-      "picture": "photos/pic9.png"
+      "name": "King",
+      "breed": "breed 2",
+      "price": "$2,208.87",
+      "img": "photos/pic9.png"
     }
   ]

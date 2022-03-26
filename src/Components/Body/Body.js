@@ -7,7 +7,7 @@ const Body = () => {
     const [choose,setChoose]=useState([])
     let [chosenone,setChosenone]=useState([])
     useEffect(()=>{
-        fetch('products.json')
+        fetch('photos/products.json')
         .then(res=>res.json())
         .then(data=>setkobutor(data))
     },[])
