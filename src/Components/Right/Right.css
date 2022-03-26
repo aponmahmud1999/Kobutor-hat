@@ -1,0 +1,10 @@
+.ch-img{
+    width: 15%;
+}
+.choose{
+    background-color: #c46309ce;
+    padding: 6px;
+    border: 1px solid rgb(156, 156, 156);
+    border-radius: 6%;
+    display: flex;
+}
