@@ -15,7 +15,7 @@ const Body = () => {
       let newCart = []
       const exist = choose.find(ch=> ch.id === name.id)
       if(choose.length>3){
-        alert('cannot add more!')
+        alert('limit exceeded')
         newCart = [...choose]
       }
       else if(!exist){
@@ -33,7 +33,7 @@ setChosenone(emptylist)
     }
     const handleChooseone=()=>{
       if(choose.length===0){
-        alert("please choose at least two products")
+        alert("Choose Minimum 2 Products...")
       }
       const index=Math.floor(Math.random()*10%(choose.length))
       chosenone=choose[index]
